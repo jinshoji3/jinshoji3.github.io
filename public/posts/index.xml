@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Shoji&#39;s Research Notes</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Shoji&#39;s Research Notes</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;title: &amp;ldquo;初めての記事&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;date: 2026-03-30T20:10:00+09:00&lt;/p&gt;
+&lt;p&gt;draft: false&lt;/p&gt;
+&lt;p&gt;categories: [&amp;ldquo;実験記事&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;これはHugoを使った初めてのテスト記事です。Markdown形式を使うと、日々の記録や備忘録をとてもシンプルにまとめることができます。&lt;/p&gt;
+&lt;p&gt;## Pythonでのデータ処理テスト&lt;/p&gt;
+&lt;p&gt;シンタックスハイライト（色付け）のテストも兼ねて、簡単なコードを記述してみます。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; numpy &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; np
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; matplotlib.pyplot &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; plt
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;\&lt;span style=&#34;color:#75715e&#34;&gt;# 取得したデータの平均を計算&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;data &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;array(\[&lt;span style=&#34;color:#ae81ff&#34;&gt;1.2&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;2.4&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;3.1&lt;/span&gt;])
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;解析完了:&amp;#34;&lt;/span&gt;, data&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;mean())
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;このように、技術的なメモも綺麗に残せます。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
