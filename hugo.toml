@@ -6,20 +6,20 @@ theme = 'PaperMod'
 [params]
   [params.profileMode]
     enabled = true
-    title = "Shoji"
-    subtitle = "Experimental Physicist | Ion Traps & Vacuum Tech"
+    title = "SHOJI"
+    subtitle = "備忘録since2026"
     imageUrl = "prof_ramen.png"
     imageWidth = 120
     imageHeight = 120
     imageTitle = "My Avatar"
 
   [[params.profileMode.buttons]]
-    name = "実験記録"
-    url = "/categories/実験記録/"
+    name = "実験記事"
+    url = "/categories/実験記事/"
 
   [[params.profileMode.buttons]]
-    name = "プログラミング"
-    url = "/categories/プログラミング/"
+    name = "読書記録"
+    url = "/categories/読書記録/"
 
   [[params.profileMode.buttons]]
     name = "すべての記事"
