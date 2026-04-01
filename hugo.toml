@@ -14,8 +14,8 @@ theme = 'PaperMod'
     imageTitle = "My Avatar"
 
   [[params.profileMode.buttons]]
-    name = "実験記事"
-    url = "/categories/実験記事/"
+    name = "備忘録"
+    url = "/categories/備忘録/"
 
   [[params.profileMode.buttons]]
     name = "読書記録"
