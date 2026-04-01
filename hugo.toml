@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jinshoji3.github.io/'
 languageCode = 'ja-jp'
 title = "Shoji's Research Notes"
 theme = 'PaperMod'
