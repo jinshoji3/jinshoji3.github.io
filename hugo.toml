@@ -14,12 +14,20 @@ theme = 'PaperMod'
     imageTitle = "My Avatar"
 
   [[params.profileMode.buttons]]
-    name = "備忘録"
-    url = "/categories/備忘録/"
+    name = "日記"
+    url = "/categories/日記/"
 
   [[params.profileMode.buttons]]
     name = "読書記録"
     url = "/categories/読書記録/"
+
+  [[params.profileMode.buttons]]
+    name = "読書（研究）"
+    url = "/categories/読書（研究）/"
+
+  [[params.profileMode.buttons]]
+    name = "読書（趣味）"
+    url = "/categories/読書（趣味）/"
 
   [[params.profileMode.buttons]]
     name = "すべての記事"
