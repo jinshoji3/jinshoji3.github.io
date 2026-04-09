@@ -1,12 +1,12 @@
 baseURL = 'https://jinshoji3.github.io/'
 languageCode = 'ja-jp'
-title = "Shoji's Notes"
+title = "庄司の駄文集"
 theme = 'PaperMod'
 
 [params]
   [params.profileMode]
     enabled = true
-    title = "SHOJI"
+    title = "駄文"
     subtitle = "since2026"
     imageUrl = "prof_ramen.png"
     imageWidth = 120
